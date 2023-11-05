@@ -1,3 +1,5 @@
+// Find Max of two numbers
+
 const maximum = (x, y) => {
     return (x > y) ? x : y;
 }

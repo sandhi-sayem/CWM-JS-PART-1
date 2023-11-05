@@ -1,3 +1,5 @@
+// Landscape or Portrait
+
 const isLandscape = (width, height) => {
     return width > height;
 }

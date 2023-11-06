@@ -20,3 +20,5 @@ function checkSpeed(speed) {
         return console.log(`You have ${demeritPoint} point${demeritPoint > 1 ? 's' : ''}.`);
     }
 }
+
+
